@@ -1,8 +1,35 @@
-# React + Vite
+# 🍓 Fruit Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Fruit Website Landing Page built using React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+This project focuses on clean UI design, responsive layout, and smooth user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+
+---
+
+## ✨ Features
+
+- Modern and clean landing page design
+- Fully responsive (Mobile, Tablet, Desktop)
+- Reusable components
+- Fast development with Vite
+- Styled using Tailwind CSS utility classes
+
+---
+
+## 📱 Responsive Design
+
+The layout adapts smoothly across:
+
+- Mobile devices
+- Tablets
+- Laptops
+- Large screens
